@@ -13,7 +13,6 @@ group :production, :staging do
   gem 'pg'
 end
 
-gem 'skylight'
 gem 'resque', '~> 1.24.1'
 gem 'lograge'
 
