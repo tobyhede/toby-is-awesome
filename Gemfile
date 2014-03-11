@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby 'ruby-1.9.3-p249'
 
 gem 'rails', '3.2.9'
 
